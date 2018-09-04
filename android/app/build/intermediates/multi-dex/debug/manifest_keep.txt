@@ -1,0 +1,3 @@
+# Referenced at /Users/Anas/Downloads/react-native-firebase-starter-master/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:28
+-keep class com.codedady.authtest.MainApplication { <init>(...); }
+
